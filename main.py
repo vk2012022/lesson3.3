@@ -6,7 +6,7 @@ SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Игра Тир")
-icon = pygame.image.load("img/maxresdefault.jpg")
+icon = pygame.image.load("img/1597238507_log-thrower.jpeg")
 pygame.display.set_icon(icon)
 
 target_img = pygame.image.load("img/target.png")
